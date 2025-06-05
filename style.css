@@ -17,3 +17,7 @@
     background: var(--cor-secundaria);
     transform: scale(1.03);
 }
+body {
+    opacity: 0;
+    transition: opacity 0.5s;
+}
