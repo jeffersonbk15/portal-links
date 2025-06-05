@@ -1,0 +1,19 @@
+:root {
+    --cor-primaria: #2c3e50; /* Azul profissional */
+    --cor-secundaria: #e74c3c; /* Vermelho energia */
+}
+
+.botao-link {
+    background: var(--cor-primaria);
+    color: white;
+    padding: 12px;
+    margin: 10px auto;
+    width: 80%;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.botao-link:hover {
+    background: var(--cor-secundaria);
+    transform: scale(1.03);
+}
