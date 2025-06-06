@@ -21,3 +21,77 @@ body {
     opacity: 0;
     transition: opacity 0.5s;
 }
+@media (max-width: 600px) {
+    .botao-link {
+        width: 95%;
+        padding: 15px;
+    }
+    header h1 {
+        font-size: 1.5rem;
+    }
+}
+/* CORES PROFISSIONAIS */
+:root {
+    --azul-escuro: #1a365d;
+    --azul-claro: #4299e1;
+    --branco: #f7fafc;
+  }
+  
+  /* FUNDO MODERNO */
+  body {
+    background: linear-gradient(135deg, var(--azul-escuro), var(--azul-claro));
+    font-family: 'Arial', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  /* CABEÇALHO */
+  header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .foto-perfil {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 4px solid var(--branco);
+    object-fit: cover;
+    margin-bottom: 15px;
+  }
+  
+  h1 {
+    color: var(--branco);
+    font-size: 1.8rem;
+    margin-bottom: 5px;
+  }
+  
+  p {
+    color: rgba(255,255,255,0.8);
+  }
+  
+  /* BOTÕES ESTILIZADOS */
+  .botao-link {
+    display: block;
+    background: rgba(255,255,255,0.9);
+    color: var(--azul-escuro);
+    text-decoration: none;
+    padding: 12px 20px;
+    margin: 10px auto;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 400px;
+    text-align: center;
+    font-weight: bold;
+    transition: all 0.3s;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  .botao-link:hover {
+    background: var(--branco);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  }
