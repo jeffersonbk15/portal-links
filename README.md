@@ -1,16 +1,28 @@
-# Portal de Links Profissional  
+# 📌 Portal de Links Pessoal  
 
 🔗 **Acesse online:** [jeffersonbk15.github.io/portal-links](https://jeffersonbk15.github.io/portal-links)  
 
-## 📌 Sobre  
-Portal profissional com todos os meus links importantes, desenvolvido com:  
+## 🖥️ Preview  
+![Screenshot do projeto](assets/preview.png)  
 
+## 🛠️ Tecnologias  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 🛠 Como Usar  
-1. Clone o repositório  
-2. Abra `index.html` no navegador  
+## ✨ Funcionalidades  
+✅ Links clicáveis  
+✅ Design responsivo (mobile + desktop)  
+✅ Efeitos de hover suaves  
 
-## 📸 Preview  
-![Screenshot](assets/preview.jpg) *// Adicione uma imagem real depois*
+## 🚀 Como Usar  
+```bash
+# Clone o projeto
+git clone https://github.com/jeffersonbk15/portal-links.git
+
+# Abra no navegador
+cd portal-links && start index.html
+📞 Contato
+Jefferson Bahia de Souza
+📧 jeffersonbk15@gmail.com
+🔗 linkedin.com/in/jefferson-bahia-604547162/
