@@ -22,7 +22,8 @@ git clone https://github.com/jeffersonbk15/portal-links.git
 
 # Abra no navegador
 cd portal-links && start index.html
-📞 Contato
-Jefferson Bahia de Souza
+ Contato
+📞 (24)999463732
+   Jefferson Bahia de Souza
 📧 jeffersonbk15@gmail.com
 🔗 linkedin.com/in/jefferson-bahia-604547162/
